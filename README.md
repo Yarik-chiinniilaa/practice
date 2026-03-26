@@ -7,7 +7,7 @@
 ## 🛠️ Виконані завдання
 1. [Завдання 1](https://github.com/Yarik-chiinniilaa/practice/tree/80d1dc14dd56c7de14b4493f0db863893f212c28/1)  
 2. [Завдання 2](https://github.com/Yarik-chiinniilaa/practice/tree/2cd182ea2e5aae883037c694256959031e295c7e/2)  
-3. Завдання 3  
+3. [Завдання 3](https://github.com/Yarik-chiinniilaa/practice/tree/09eb53664be6e1fb4533aa6b1a6ac9ec974374a4/3)  
 4. Завдання 4  
 5. Завдання 5  
 6. Завдання 6
