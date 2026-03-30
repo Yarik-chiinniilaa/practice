@@ -10,7 +10,6 @@
 3. [Завдання 3](https://github.com/Yarik-chiinniilaa/practice/tree/09eb53664be6e1fb4533aa6b1a6ac9ec974374a4/3)  
 4. [Завдання 4](https://github.com/Yarik-chiinniilaa/practice/tree/e57e8fc99aba60cf2f05cde011a20b3b7ee2a9c1/4)  
 5. Завдання 5  
-6. Завдання 6
 
 ## 👨‍💻 Виконав
 Полиба Ярослав  
