@@ -10,7 +10,8 @@
 3. [Завдання 3](https://github.com/Yarik-chiinniilaa/practice/tree/2cd182ea2e5aae883037c694256959031e295c7e/2)  
 4. [Завдання 4](https://github.com/Yarik-chiinniilaa/practice/tree/09eb53664be6e1fb4533aa6b1a6ac9ec974374a4/3)  
 5. [Завдання 5](https://github.com/Yarik-chiinniilaa/practice/tree/e57e8fc99aba60cf2f05cde011a20b3b7ee2a9c1/4)  
-6. [Завдання 6](https://github.com/Yarik-chiinniilaa/practice/tree/916753dd763abc7110a4e7368c9796c4c7577c7f/5)  
+6. [Завдання 6](https://github.com/Yarik-chiinniilaa/practice/tree/916753dd763abc7110a4e7368c9796c4c7577c7f/5)
+7. [Завдання 7]
 
 ## 👨‍💻 Виконав
 Полиба Ярослав  
